@@ -1,0 +1,11 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.lang.git",
+    "lazyvim.plugins.extras.lang.sql",
+    "lazyvim.plugins.extras.lang.svelte"
+  ],
+  "news": {
+    "NEWS.md": "7429"
+  },
+  "version": 7
+}
